@@ -1,2 +1,2 @@
-# react-redux-daga
+# react-redux-saga
 Created with CodeSandbox
